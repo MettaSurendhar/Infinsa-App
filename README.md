@@ -23,6 +23,17 @@ Infinsa Bot is an AI-Powered Mobile App built using **Flutter Flow**, **Python**
 - **Security**: Built-in scam protection mechanisms.
 - **Haystack**: An open-source framework for building production-ready LLM applications, retrieval-augmented generative pipelines, and state-of-the-art search systems that work intelligently over large document collections.  
 
+## Screenshots
+
+Here are some screenshots showcasing the project:
+
+![Login](screenshots/1732558166161.jpeg)
+![Home Page](screenshots/1732558166181.jpeg)
+![Financial Track](screenshots/1732558165904.jpeg)
+![Investments Track](screenshots/1732558165935.jpeg)
+![Budget Plan](screenshots/1732558166125.jpeg)
+![My Expense Trac](screenshots/1732558166151.jpeg)
+
 ## Getting Started  
 There are two ways to get started with Infinsa Bot:  
 
