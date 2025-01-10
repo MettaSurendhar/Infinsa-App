@@ -102,13 +102,10 @@ To contribute:
    ```  
 5. Open a Pull Request.  
 
-## License  
-Distributed under the MIT License. See `LICENSE` for more information.  
-
 ## Top Contributors  
 - **Harini**  
 - **Adithya**  
-- **Sundar**  
+- **[Sundar](https://github.com/Sundhar-Balamoorthy)**  
 
 ## Acknowledgments  
 We express our gratitude to the HackZ 2024 team and organizers for the opportunity to develop Infinsa Bot. Special thanks to the community for inspiring innovation and providing resources to enhance financial inclusion.  
