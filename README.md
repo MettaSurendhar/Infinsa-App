@@ -29,11 +29,11 @@ There are two ways to get started with Infinsa Bot:
 ### 1. Cloning This Repository  
 1. Clone the frontend repository:  
    ```bash  
-   git clone https://github.com/your-repo/infinsa-bot.git  
+   git clone https://github.com/MettaSurendhar/Infinsa-App.git
    ```  
 2. Clone the backend repository separately:  
    ```bash  
-   git clone <backend-repo-link>  
+   git clone https://github.com/MettaSurendhar/Infinsa-App-server.git  
    ```  
 3. Publish the backend Python code to connect it with the frontend.  
 4. Run the Flutter application using your preferred IDE or command-line interface.  
