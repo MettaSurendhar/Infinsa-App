@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064511142915",
+    "project_id": "infinsa-app-cwrubj",
+    "storage_bucket": "infinsa-app-cwrubj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064511142915:android:de93ccbd0069189b71e236",
+        "android_client_info": {
+          "package_name": "com.mycompany.infinsaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrPbviZl82Ual1ztSSKEOCH1oodTCFiBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,2 +1,7 @@
-# Infinsa-App
-AI powered mobile app - Simplifies digital banking and financial planning with the support of voice input
+# Infinsa App
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
