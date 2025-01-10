@@ -31,7 +31,7 @@ There are two ways to get started with Infinsa Bot:
    ```bash  
    git clone https://github.com/MettaSurendhar/Infinsa-App.git
    ```  
-2. Clone the backend repository separately:  
+2. Clone the [backend](https://github.com/MettaSurendhar/Infinsa-App-server) repository separately:  
    ```bash  
    git clone https://github.com/MettaSurendhar/Infinsa-App-server.git  
    ```  
