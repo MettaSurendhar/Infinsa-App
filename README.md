@@ -46,7 +46,7 @@ There are two ways to get started with Infinsa Bot:
 ## Usage  
 Infinsa Bot is available in multiple formats:  
 1. **Web Application**: Access the published web app here: [Infinsa Bot Web App](https://infinsa-bot-app.flutterflow.app/).  
-2. **Mobile Application**: Download the APK from [this link](<apk-download-link>).
+2. **Mobile Application**: Download the APK from [apk download](https://github.com/MettaSurendhar/Infinsa-App/releases/download/v0.1.0-alpha/Infinsa.App-release.apk).
 
 ### Digital Banking Features:  
 - **Account Management**: Track balances and activity.  
